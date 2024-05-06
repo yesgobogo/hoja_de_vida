@@ -1,0 +1,19 @@
+.body{
+    width:100px;
+    height:100px;
+    background:cornflowerblue;
+    padding: 50px;
+    margin: 20px;
+}
+.img_1{
+    width: 90px; /* Ancho */
+    height: 90px; /* Alto */
+    
+}
+.img_2{
+    width: 400px; /* Ancho */
+    height: 300px; /* Alto */
+}
+p {
+    font-weight: bold; /*negrita a las etiquetas de parrafo*/
+}
